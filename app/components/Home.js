@@ -8,7 +8,8 @@ export default class Home extends Component {
     return (
       <div>
         <div className={styles.container}>
-          <h1>Hey</h1>
+          <h1>Hey it works.</h1>
+          <p>Change me in app/components/Home.js</p>
         </div>
       </div>
     );
